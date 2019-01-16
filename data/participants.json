@@ -60,6 +60,16 @@
 			"twitter"  : "https://twitter.com/DugtalLekhika",
             "referral" : ""
         },
+	     {
+            "name": "Riya Chaudhary",
+            "imageurl": "assets/img/participants/riya.jpg",
+            "about": "curiosity",
+            "college": "IIIT, Allahabad",
+            "facebook": "https://www.facebook.com/",
+            "github": "https://github.com/riya-rc",
+            "twitter": "",
+            "referral": ""
+},
       	{
         	"name": "Manish",
             "imageurl": "assets/img/participants/manish.jpg",
